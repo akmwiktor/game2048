@@ -3,8 +3,9 @@ import java.awt.*;
 
 public class Main {
     public static void main(String[] args) {
-        Dimension ss = Toolkit.getDefaultToolkit ().getScreenSize ();
-        JMenuBar mb = new JMenuBar();
+        Field field = new Field();
+        Dimension screenSize = Toolkit.getDefaultToolkit ().getScreenSize ();
+        JMenuBar menuBar = new JMenuBar();
 
         JMenu menuFile = new JMenu();
         JMenu help = new JMenu();
@@ -30,15 +31,15 @@ public class Main {
         menuFile.add(exit);
         help.add(aboutGame);
 
-        mb.add(menuFile);
-        mb.add(help);
+        menuBar.add(menuFile);
+        menuBar.add(help);
 
         exit.addActionListener(ActionEvent -> System.exit(0));
 
         JFrame f = new JFrame("GAME 2048");
-        f.setLocation(ss.width  / 2 - 250, ss.height / 8);
-
-        f.setJMenuBar(mb);
+        f.setLocation(screenSize.width  / 2 - 250, screenSize.height / 8);
+        f.add(field);
+        f.setJMenuBar(menuBar);
         f.setSize(430, 730);
         f.setResizable(false);
         f.setVisible(true);
