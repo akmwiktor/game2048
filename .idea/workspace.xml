@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71536f03-991e-4cb0-9e6f-c748080ad5c1" name="Default Changelist" comment="Main changed (link with Field)">
+      <change afterPath="$PROJECT_DIR$/src/Help.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grid.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UkxxWjnGJfrsC7R5ae5nzJ39Th" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="142" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="game2048" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71536f03-991e-4cb0-9e6f-c748080ad5c1" name="Default Changelist" comment="" />
+      <created>1575914641389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575914641389</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Field created">
+      <created>1575917452684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575917452684</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main changed (link with Field)">
+      <created>1575917596325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575917596325</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Help created">
+      <created>1575921030864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575921030864</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Grid created">
+      <created>1575923323119</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575923323119</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Field changed (area grid)">
+      <created>1576092457872</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576092457872</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Field changed. Loop added">
+      <created>1576099673125</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576099673125</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Main changed (Action of menu added)">
+      <created>1576099939801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576099939801</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Main changed (Action of menu added)">
+      <created>1576100346189</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576100346189</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Field created" />
+    <MESSAGE value="Main changed (link with Field)" />
+    <MESSAGE value="Help created" />
+    <MESSAGE value="Grid created" />
+    <MESSAGE value="Field changed (area grid)" />
+    <MESSAGE value="Field changed. Loop added" />
+    <MESSAGE value="Main changed (Action of menu added)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main changed (Action of menu added)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575914678891">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="175" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1575914678891" />
+    <state x="144" y="27" width="1126" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575919052445">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="144" y="27" width="1126" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1575919052445" />
+    <state x="450" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575918576142">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="450" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1575918576142" />
+    <state x="324" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1576100345931">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="324" y="27" width="777" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1576100345931" />
+    <state x="500" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575917683042">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="500" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575917683042" />
+    <state width="1221" height="145" key="GridCell.Tab.0.bottom" timestamp="1576178293145">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1221" height="145" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576178293145" />
+    <state width="1221" height="145" key="GridCell.Tab.0.center" timestamp="1576178293144">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1221" height="145" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576178293144" />
+    <state width="1221" height="145" key="GridCell.Tab.0.left" timestamp="1576178293143">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1221" height="145" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576178293143" />
+    <state width="1221" height="145" key="GridCell.Tab.0.right" timestamp="1576178293144">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1221" height="145" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576178293144" />
+    <state x="312" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1576100352844">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="312" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1576100352844" />
+    <state x="373" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1576172765989">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="373" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1576172765989" />
+    <state x="450" y="280" width="524" height="232" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1575919551909">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="450" y="280" width="524" height="232" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/67.27.1299.741@67.27.1299.741" timestamp="1575919551909" />
+    <state x="380" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576004468350">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1576004468350" />
+  </component>
+</project>
